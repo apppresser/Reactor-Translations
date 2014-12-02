@@ -12,7 +12,8 @@ To help translate Reactor please do a pull request and add your translated file.
 
 Rename the folder es and the internal file es.json.
 
-```[
+```
+[
     {
         "purchase_button": "Comprar",
         "back_button": "Retroceder"
