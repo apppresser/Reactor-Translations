@@ -7,6 +7,8 @@
         "ptr_text": "Pull to refresh...",
         "share_error_header": "Oops, share didn/'t go through.",
         "share_error_body": "Please try again..",
-        "no_data": "Sorry, there doesn't seem to be anything to display here."
+        "no_data": "Sorry, there doesn't seem to be anything to display here.",
+        "comment_status": "sorry, comments are closed.",
+        "woo_sale": "Sale!"
     }
 ]
